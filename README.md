@@ -10,7 +10,7 @@ I'm a Full stack Developer with specialization in REACT!
 * ✉️  You can contact me at [zaidanghyasi@outlook.com](mailto:zaidanghyasi@outlook.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Projects
-* ⚡  I taught Zuckerberg how to code
+* ⚡  I taught Zuckerberg how to code ;)
 
 ### Skills
 
