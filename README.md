@@ -8,7 +8,7 @@ I'm a Full stack Developer with specialization in REACT!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [zaidanghyasi@outlook.com](mailto:zaidanghyasi@outlook.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning How to learn effectively
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I taught Zuckerberg how to code ;)
 
