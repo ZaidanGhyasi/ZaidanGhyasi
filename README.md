@@ -6,7 +6,7 @@ Software Developer
 
 I'm a Full stack Developer with specialization in REACT!
 
-* 🌍  I'm based in India
+* 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [zaidanghyasi@outlook.com](mailto:zaidanghyasi@outlook.com)
 * 🧠  I'm learning How to learn effectively
 * 🤝  I'm open to collaborating on Projects
